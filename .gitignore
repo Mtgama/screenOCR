@@ -1,0 +1,30 @@
+# Build output
+dist/
+build/
+build_temp/
+build_data/
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Runtime settings (created next to app)
+settings.json
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Generated images
+*.png
+!assets/*.png

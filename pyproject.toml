@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "persian-ocr"
+version = "2.0.0"
+description = "Professional Persian OCR application"
+requires-python = ">=3.10"
+dependencies = [
+    "PyQt6>=6.6.0",
+    "pytesseract",
+    "pillow",
+    "pymupdf",
+    "opencv-python-headless",
+    "python-docx",
+    "pyautogui",
+]
+
+[project.scripts]
+screenocr = "app:main"
+
+[tool.setuptools]
+py-modules = ["app", "settings", "tessdata_manager"]
+packages = ["core", "ui", "ui.panels", "utils"]
+
+[tool.setuptools.package-data]
+"*" = ["*.json", "*.qss"]
