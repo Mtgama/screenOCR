@@ -305,6 +305,6 @@ MIT
 
 <div align="center">
 
-**Built with ❤️ by [Hamed Gharghi](https://github.com/Hamed-Gharghi)**
+**Built with ❤️ by [Mehrdad Hasanzade & Mahshid jalili](https://github.com/Mtgama)**
 
 </div>
