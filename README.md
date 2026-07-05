@@ -48,7 +48,7 @@ Persian OCR is a modern desktop application for extracting text from Persian (Fa
 ### Screenshots
 
 <p align="center">
-  <img src="https://github.com/Hamed-Gharghi/Persian-OCR-App/blob/main/assets/image.png?raw=true" alt="Persian OCR App" width="700" />
+  <img src="https://github.com/Mtgama/screenOCR/blob/main/assets/image.png?raw=true" alt="Persian OCR App" width="700" />
 </p>
 
 ### Installation
@@ -190,7 +190,7 @@ MIT
 ### اسکرین‌شات
 
 <p align="center">
-  <img src="https://github.com/Hamed-Gharghi/Persian-OCR-App/blob/main/assets/image.png?raw=true" alt="Persian OCR App" width="700" />
+  <img src="https://github.com/Mtgama/screenOCR/blob/main/assets/image.png?raw=true" alt="Persian OCR App" width="700" />
 </p>
 
 ### نصب
