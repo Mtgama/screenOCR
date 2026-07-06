@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![PyQt6](https://img.shields.io/badge/PyQt6-6.6%2B-green?logo=qt)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey)
-[![GitHub stars](https://img.shields.io/github/stars/Hamed-Gharghi/Persian-OCR-App?style=social)](https://github.com/Hamed-Gharghi/Persian-OCR-App/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Mtgama/screenOCR?style=social)](https://github.com/Mtgama/screenOCR/stargazers)
 
 ---
 
@@ -56,8 +56,8 @@ Persian OCR is a modern desktop application for extracting text from Persian (Fa
 #### System-wide install (recommended)
 
 ```bash
-git clone https://github.com/Hamed-Gharghi/Persian-OCR-App.git
-cd Persian-OCR-App
+git clone https://github.com/Mtgama/screenOCR.git
+cd screenOCR
 chmod +x install_user.sh
 ./install_user.sh
 ```
@@ -73,8 +73,8 @@ The app will also appear in your application menu as **Persian OCR**.
 #### Run from source
 
 ```bash
-git clone https://github.com/Hamed-Gharghi/Persian-OCR-App.git
-cd Persian-OCR-App
+git clone https://github.com/Mtgama/screenOCR.git
+cd screenOCR
 pip install -r requirements.txt
 python main.py
 ```
@@ -100,7 +100,7 @@ python main.py
 ### Project Structure
 
 ```
-Persian-OCR-App/
+screenOCR/
 ├── main.py                # Entry point
 ├── app.py                 # QApplication setup
 ├── core/                  # Business logic (Model)
@@ -198,8 +198,8 @@ MIT
 #### نصب سراسری (پیشنهادی)
 
 ```bash
-git clone https://github.com/Hamed-Gharghi/Persian-OCR-App.git
-cd Persian-OCR-App
+git clone https://github.com/Mtgama/screenOCR.git
+cd screenOCR
 chmod +x install_user.sh
 ./install_user.sh
 ```
@@ -215,8 +215,8 @@ screenocr
 #### اجرا از سورس
 
 ```bash
-git clone https://github.com/Hamed-Gharghi/Persian-OCR-App.git
-cd Persian-OCR-App
+git clone https://github.com/Mtgama/screenOCR.git
+cd screenOCR
 pip install -r requirements.txt
 python main.py
 ```
@@ -242,7 +242,7 @@ python main.py
 ### ساختار دایرکتوری
 
 ```
-Persian-OCR-App/
+screenOCR/
 ├── main.py                # نقطه ورود
 ├── app.py                 # راه‌اندازی QApplication
 ├── core/                  # منطق تجاری (Model)

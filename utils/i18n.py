@@ -1,6 +1,6 @@
 APP_VERSION = "2.0.0"
-APP_AUTHOR = "Hamed Gharghi"
-APP_GITHUB = "https://github.com/Hamed-Gharghi/Persian-OCR-App"
+APP_AUTHOR = "Mehrdad Hasanzade"
+APP_GITHUB = "https://github.com/Mtgama/screenOCR"
 
 SUPPORTED_EXTENSIONS = {".png", ".jpg", ".jpeg", ".bmp", ".pdf"}
 EXPORT_EXTENSIONS = {"txt": ["txt"], "docx": ["docx"], "pdf": ["pdf"]}

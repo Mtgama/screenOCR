@@ -7,7 +7,7 @@ Usage:
     python main.py
 
 For more information:
-    https://github.com/Hamed-Gharghi/Persian-OCR-App
+    https://github.com/Mtgama/screenOCR
 """
 from app import main
 

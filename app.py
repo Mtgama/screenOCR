@@ -24,7 +24,7 @@ def main():
     app = QApplication(sys.argv)
     app.setApplicationName("Persian OCR")
     app.setApplicationVersion("2.0.0")
-    app.setOrganizationName("Hamed Gharghi")
+    app.setOrganizationName("Mehrdad Hasanzade")
 
     # Apply theme
     Theme.apply_to_app(app)
